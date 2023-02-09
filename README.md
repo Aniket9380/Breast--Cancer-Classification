@@ -40,4 +40,4 @@ Building a predictive System.
 
 Checking the Accuracy Score for Test Data and Training Data.
 ![Screenshot (183)](https://user-images.githubusercontent.com/121851937/217705905-e921fbfa-ebc5-4fb0-be60-e8dd1ca2694f.png)
-(The accuracy was found out for Test Data and Training Data Came out to be:- 92.10% and 94.94%)
+(The accuracy was found out for Test Data and Training Data Came out to be:- 92.10% and 94.94% respectively.)
